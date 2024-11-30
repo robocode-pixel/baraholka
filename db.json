@@ -30,6 +30,9 @@
         } 
         {
             "id": 1,
+            "name": "Vasya",
+            "surname": "Karburator",
+            "photo_url": "nema",
             "name": "Vladik",
             "surname": "Drisch",
             "photo_url": "nemamyrchik",
