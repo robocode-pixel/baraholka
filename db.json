@@ -57,10 +57,9 @@
             "brand": "naebalovo.com.ne.scam",
             "price": "19999999999999999.99$"
         }
-    ]
-}
-    {       
-    "name": "personazh",
-    "brand": "kontra",
-    "price": 1337
-}
+        ]
+        {       
+            "name": "personazh",
+            "brand": "kontra",
+            "price": 1337
+        }
