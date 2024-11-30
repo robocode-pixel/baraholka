@@ -51,4 +51,8 @@
         }
     ]
 }
-
+    {       
+    "name": "personazh",
+    "brand": "kontra",
+    "price": 1337
+}
