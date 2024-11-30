@@ -27,15 +27,14 @@
             "surmane": "Robocode",
             "photo-url": "https://www.google.com/logos/fnbx/snake_arcade/cta_alt.png",
             "balance": 1000
-       } 
+        } 
         {
             "id": 1,
             "name": "Vladik",
             "surname": "Drisch",
-            "photo_url": "nema",
+            "photo_url": "nemamyrchik",
             "balance": "780"
-
         }
-    ]
-}
+        ]
+        }
 
