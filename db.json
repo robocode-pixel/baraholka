@@ -52,10 +52,9 @@
             "brand": "naebalovo.com",
             "price": "199999.99$"
         }
-    ]
-}
-    {       
-    "name": "personazh",
-    "brand": "kontra",
-    "price": 1337
-}
+        ]
+        {       
+            "name": "personazh",
+            "brand": "kontra",
+            "price": 1337
+        }
