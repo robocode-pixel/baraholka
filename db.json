@@ -1,6 +1,35 @@
 {
     "users": [
         {
+           "id" : 1,
+           "name": "snikers",
+           "surname": "twix",
+           "photo_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D2177310915825592%26id%3D1977780342445318%26set%3Da.1977780389111980%26locale%3Dru_RU&psig=AOvVaw0O_i93AVsLxJbXaPqdcNAZ&ust=1733057249857000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDh6bOLhIoDFQAAAAAdAAAAABAE",
+           "balance": 700
+        }
+        {
+           "id": 777,
+           "name": "Modwq",
+           "surname": "anikiev",
+           "photo_url": "https://content2.rozetka.com.ua/goods/images/big/408089923.jpg",
+           "balance": 7777
+        } 
+        {
+            "id": 1,
+            "name": "Snake",
+            "surname": "Robocode",
+            "photo_url": "https://vetmed.illinois.edu/wp-content/uploads/2022/06/Green-snake.jpg",
+            "balance": 1500
+        }
+        } 
+        {
+        "id": 1,
+        "name": "Dima",
+        "surmane": "Robocode",
+        "photo-url": "https://www.google.com/logos/fnbx/snake_arcade/cta_alt.png",
+        "balance": 1000
+       } 
+        {
             "id": 1,
             "name": "Vladik",
             "surname": "Drisch",
