@@ -47,6 +47,11 @@
             "brand": "Apple",
             "price": 1488
         }
+        {
+            "name": "vozduh",
+            "brand": "naebalovo.com",
+            "price": "199999.99$"
+        }
     ]
 }
 
