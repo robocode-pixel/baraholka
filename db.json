@@ -31,11 +31,10 @@
        } 
         {
             "id": 1,
-            "name": "Vladik",
-            "surname": "Drisch",
+            "name": "Vasya",
+            "surname": "Karburator",
             "photo_url": "nema",
             "balance": "780"
-
         }
     ]
 }
