@@ -33,11 +33,15 @@
             "name": "Vasya",
             "surname": "Karburator",
             "photo_url": "nema",
-            "name": "Vladik",
-            "surname": "Drisch",
-            "photo_url": "nemamyrchik",
             "balance": "780"
         }
-        ]
+    ],
+    "products": [
+        {
+            "name": "TV",
+            "brand": "LG",
+            "price": 1000
         }
+    ]
+}
 
