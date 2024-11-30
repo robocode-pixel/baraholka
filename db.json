@@ -1,5 +1,11 @@
 {
     "users": [
-        
+        {
+            "id": 1,
+            "name": "Snake",
+            "surname": "Robocode",
+            "photo_url": "https://vetmed.illinois.edu/wp-content/uploads/2022/06/Green-snake.jpg",
+            "balance": 1500
+        }
     ]
 }
