@@ -1,6 +1,13 @@
 {
     "users": [
         {
+           "id": 777,
+           "name": "Modwq",
+           "surname": "anikiev",
+           "photo_url": "https://content2.rozetka.com.ua/goods/images/big/408089923.jpg",
+           "balance": 7777
+        } 
+        {
         "id": 1,
         "name": "Dima",
         "surmane": "Robocode",
