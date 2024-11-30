@@ -1,5 +1,13 @@
 {
     "users": [
-        
+        {
+            "id": 1,
+            "name": "Vladik",
+            "surname": "Drisch",
+            "photo_url": "nema",
+            "balance": "780"
+
+        }
     ]
 }
+
