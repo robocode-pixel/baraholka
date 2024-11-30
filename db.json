@@ -47,7 +47,6 @@
             "brand": "Apple",
             "price": 666
         }    
-    ]         [
         {
             "name": "Iphone",
             "brand": "Apple",
@@ -55,9 +54,13 @@
         }
         {
             "name": "vozduh",
-            "brand": "naebalovo.com",
-            "price": "199999.99$"
+            "brand": "naebalovo.com.ne.scam",
+            "price": "19999999999999999.99$"
         }
     ]
 }
-
+    {       
+    "name": "personazh",
+    "brand": "kontra",
+    "price": 1337
+}
