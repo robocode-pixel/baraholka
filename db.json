@@ -1,5 +1,11 @@
 {
     "users": [
-        
+        {
+        "id": 1,
+        "name": "Dima",
+        "surmane": "Robocode",
+        "photo-url": "https://www.google.com/logos/fnbx/snake_arcade/cta_alt.png",
+        "balance": 1000
+       } 
     ]
 }
