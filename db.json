@@ -38,26 +38,31 @@
     ],
     "products": [
         {
+            "id" : 1,
             "name": "TV",
             "brand": "LG",
             "price": 1000
         },
         {
+            "id" : 2,
             "name": "15 aphone",
             "brand": "Apple",
             "price": 666
         },    
         {
+            "id" : 3,
             "name": "Iphone",
             "brand": "Apple",
             "price": 1488
         },
         {
+            "id" : 4,
             "name": "vozduh",
-            "brand": "naebalovo.com.ne.scam.nananananadorogi",
+            "brand": "produm.cota.ne.scam.nananananadorogi",
             "price": "19999999999999999.99$"
         },
         {       
+            "id" : 5,
             "name": "personazh",
             "brand": "kontra",
             "price": 1337
