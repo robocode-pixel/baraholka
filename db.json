@@ -47,24 +47,28 @@
         {
             "id" : 2,
             "name": "15 aphone",
+            "photo_url": "https://cdn.comfy.ua/media/catalog/product/i/p/iphone_15_pink_pdp_image_position-1__ww-en_2.jpg",
             "brand": "Apple",
             "price": 666
         },    
         {
             "id" : 3,
             "name": "Iphone",
+            "photo_url": "https://applehome.te.ua/wp-content/uploads/2021/04/apple-iphone-x-64gb-used-silver-2.1000x.jpg",
             "brand": "Apple",
             "price": 1488
         },
         {
             "id" : 4,
             "name": "vozduh",
+            "photo_url": "https://www.dexerto.com/cdn-image/wp-content/uploads/2023/06/27/robocat-arm-cat.jpg?width=1200&quality=60&format=auto",
             "brand": "produm.cota.ne.scam.nananananadorogi",
             "price": "19999999999999999.99$"
         },
         {       
             "id" : 5,
             "name": "personazh",
+            "photo_url": "https://www.ruko.net/cdn/shop/files/Ruko1088LargeSmartRobotsforKids0812.webp?v=1723457124",
             "brand": "kontra",
             "price": 1337
         }
