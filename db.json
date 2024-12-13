@@ -72,5 +72,12 @@
             "brand": "kontra",
             "price": 1337
         }
+        {       
+            "id" : 6,
+            "name": "iPad",
+            "photo_url": "https://lh6.googleusercontent.com/proxy/22o5jtKjbnz864jj4i7QlyWUFeEd3qPDgHttD1jjCIeoZRJsiReHfWXzmQLMss7KhCSht395HtViLd-RfNzHEIVxq2JZy__rnuzMSrRjQA",
+            "brand": "Apple",
+            "price": 1499
+        }
     ]
 }
