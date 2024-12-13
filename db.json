@@ -24,8 +24,8 @@
         {
             "id": 4,
             "name": "Dima",
-            "surmane": "Robocode",
-            "photo-url": "https://www.google.com/logos/fnbx/snake_arcade/cta_alt.png",
+            "surname": "Robocode",
+            "photo_url": "https://www.google.com/logos/fnbx/snake_arcade/cta_alt.png",
             "balance": 1000
         }, 
         {
@@ -33,7 +33,7 @@
             "name": "Vasya",
             "surname": "Karburator",
             "photo_url": "nema",
-            "balance": "780"
+            "balance": 780
         }
     ],
     "products": [
