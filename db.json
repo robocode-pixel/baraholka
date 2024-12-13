@@ -38,46 +38,52 @@
     ],
     "products": [
         {
-            "id" : 1,
+            "id": 1,
             "name": "TV",
             "photo_url": "https://vinga.ua/data/image/4/7/0/8470/8470_1.456.313.jpg",
             "brand": "LG",
-            "price": 1000
+            "price": 1000,
+            "author_id": 1
         },
         {
-            "id" : 2,
+            "id": 2,
             "name": "15 aphone",
             "photo_url": "https://cdn.comfy.ua/media/catalog/product/i/p/iphone_15_pink_pdp_image_position-1__ww-en_2.jpg",
             "brand": "Apple",
-            "price": 666
+            "price": 666,
+            "author_id": 2
         },    
         {
-            "id" : 3,
+            "id": 3,
             "name": "Iphone",
             "photo_url": "https://applehome.te.ua/wp-content/uploads/2021/04/apple-iphone-x-64gb-used-silver-2.1000x.jpg",
             "brand": "Apple",
-            "price": 1488
+            "price": 1488,
+            "author_id": 3
         },
         {
-            "id" : 4,
+            "id": 4,
             "name": "vozduh",
             "photo_url": "https://www.dexerto.com/cdn-image/wp-content/uploads/2023/06/27/robocat-arm-cat.jpg?width=1200&quality=60&format=auto",
             "brand": "produm.cota.ne.scam.nananananadorogi",
-            "price": "19999999999999999.99$"
+            "price": 19999999999999999.99,
+            "author_id": 4
         },
         {       
-            "id" : 5,
+            "id": 5,
             "name": "personazh",
             "photo_url": "https://www.ruko.net/cdn/shop/files/Ruko1088LargeSmartRobotsforKids0812.webp?v=1723457124",
             "brand": "kontra",
-            "price": 1337
+            "price": 1337,
+            "author_id": 5
         },
         {       
-            "id" : 6,
+            "id": 6,
             "name": "iPad",
             "photo_url": "https://cdn.vox-cdn.com/thumbor/1dJ7eGFI7WXV1Gc2jzhMw7onN1Q=/0x0:6000x4000/1000x1000/filters:focal(3000x2000:3001x2001)/cdn.vox-cdn.com/uploads/chorus_asset/file/25446398/iPadAirFront.jpg",
             "brand": "Apple",
-            "price": 1499
+            "price": 1499,
+            "author_id": 5
         }
     ]
 }
